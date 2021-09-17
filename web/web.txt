@@ -1,0 +1,7 @@
+The internet is a series of computer groups called "networks" linked together and communicating with the use of routers.
+The routers are able to read unique IP addresses (each computer connected to the internet has one) and route request/response actions.
+When someone clicks on a link or puts in a URL they want to visit, a request to a server somewhere in the world is sent out and found with the use of the routers.
+
+The URL or domain name is like a nickname for the actual IP address. Once the computer with the correct IP address is found, that computer takes the request and sends out the correct response.
+The response can be all kinds of things. Usually the response will come back as HTML code which the browser can read and then display as a string for the user to understand.  
+
